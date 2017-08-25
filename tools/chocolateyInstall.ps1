@@ -1,5 +1,5 @@
 $packageName = 'xqilla'
-$url = "https://sourceforge.net/projects/xqilla/files/XQilla-$version.zip"
+$url = "https://raw.githubusercontent.com/endpointsystems/xqilla-choco/master/tools/XQilla-$version.zip"
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $version = '2.3.3'
 
