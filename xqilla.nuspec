@@ -18,4 +18,8 @@
     <copyright>GNU Public License</copyright>
     <tags>xqilla,XQuery,XPath,Xerces</tags>
   </metadata>
+    <files>
+        <file src="tools\chocolateyInstall.ps1" target="tools"/>
+        <file src="tools\chocolateyUnInstall.ps1" target="tools"/>
+    </files>
 </package>
