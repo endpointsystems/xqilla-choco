@@ -3,20 +3,24 @@
   <metadata>
     <id>xqilla</id>
     <version>2.3.3</version>
-    <title>xqilla</title>
+    <title>XQilla - an XQuery and XPath 2.0 command line utility</title>
     <authors>Parthenon Computing, DecisionSoft, Oracle, Ying Cai, George Feinberg, Lauren Foutz, Boris Kolpackov, Alberto Massari, John Snelson</authors>
     <owners>Oracle</owners>
     <licenseUrl>http://xqilla.sourceforge.net/Licence</licenseUrl>
-    <projectUrl>http://xqilla.sourceforge.net</projectUrl>
+    <iconUrl>http://xqilla.sourceforge.net/favicon.ico</iconUrl>
+    <docsUrl>http://xqilla.sourceforge.net/Documentation</docsUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>XQilla is an XQuery and XPath 2 library and command line utility written in C++, implemented on top of the Xerces-C library. It is made available under the terms of the Apache License v2.
 
         Chocolatey package created by Endpoint Systems, makers of Figaro - the .NET extension to Oracle Berkeley DB XML. Visit us on the web at http://endpointsystems.com .
     </description>
     <summary>A code generator for connecting C/C++ with other programming languages</summary>
-    <releaseNotes />
-    <copyright>GNU Public License</copyright>
-    <tags>xqilla,XQuery,XPath,Xerces</tags>
+    <releaseNotes>https://sourceforge.net/p/xqilla/news/2016/03/xqilla-version-233-release/</releaseNotes>
+    <copyright>Apache License 2.0</copyright>
+    <tags>xqilla XQuery XPath Xerces</tags>
+    <projectUrl>http://xqilla.sourceforge.net</projectUrl>
+    <packageSourceUrl>https://github.com/endpointsystems/xqilla-choco/</packageSourceUrl>
+    <mailingListUrl>https://sourceforge.net/projects/xqilla/lists/xqilla-user</mailingListUrl>
   </metadata>
     <files>
         <file src="tools\chocolateyInstall.ps1" target="tools"/>
